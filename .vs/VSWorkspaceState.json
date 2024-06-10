@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1A Tall og Tekster"
+    "\\1A Tall og Tekster\\Oppgaver",
+    "\\1B Valg og Betingelser",
+    "\\1B Valg og Betingelser\\Oppgaver"
   ],
-  "SelectedNode": "\\1B Valg og Betingelser",
+  "SelectedNode": "\\1B Valg og Betingelser\\Oppgaver\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
