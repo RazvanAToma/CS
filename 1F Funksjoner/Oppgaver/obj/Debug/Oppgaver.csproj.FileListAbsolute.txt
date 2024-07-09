@@ -1,0 +1,7 @@
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\bin\Debug\Oppgaver.exe.config
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\bin\Debug\Oppgaver.exe
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\bin\Debug\Oppgaver.pdb
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\obj\Debug\Oppgaver.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\obj\Debug\Oppgaver.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\obj\Debug\Oppgaver.exe
+C:\Users\razva\Documents\GitHub\CS\1F Funksjoner\Oppgaver\obj\Debug\Oppgaver.pdb
