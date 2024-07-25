@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\bin\Debug\net8.0\CaloCalc.exe
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\bin\Debug\net8.0\CaloCalc.deps.json
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\bin\Debug\net8.0\CaloCalc.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\bin\Debug\net8.0\CaloCalc.dll
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\bin\Debug\net8.0\CaloCalc.pdb
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.sourcelink.json
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.dll
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\refint\CaloCalc.dll
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.pdb
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\CaloCalc.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\CS\CaloCalc\obj\Debug\net8.0\ref\CaloCalc.dll
