@@ -42,6 +42,65 @@ namespace Oppgaver
             }
 
             byOgLand("Oslo", "Norge");
+
+
+            // Oppgave 4
+
+            void minst(int a, int b)
+            {
+                if (a > b)
+                {
+                    Console.WriteLine($"{a} er storre enn {b}");
+                }
+                else
+                {
+                    Console.WriteLine($"{b} er storre enn {a}");
+                }
+            }
+
+            minst(5, 10);
+
+
+
+            // Oppgave 5
+
+            Console.Write("Skriv inn navn:");
+            string inputName = Console.ReadLine();
+
+            void nameTag(string name)
+            {
+                int nameLength = name.Length;
+
+
+                Console.Write("+");
+
+                for (int i = 0; i < nameLength; i += 1)
+                {
+                    Console.Write("-");
+                }
+
+                Console.WriteLine("+");
+
+
+                Console.Write("|");
+
+                Console.Write(name);
+
+                Console.WriteLine("|");
+
+
+                Console.Write("+");
+
+                for (int i = 0; i < nameLength; i += 1)
+                {
+                    Console.Write("-");
+                }
+
+                Console.WriteLine("+");
+
+            }
+
+            nameTag(inputName);
         }
     }
 }
